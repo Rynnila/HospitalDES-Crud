@@ -1,0 +1,18 @@
+create database hospital;
+use hospital;
+create table paciente(
+	cpf double primary key not null,
+    nome varchar(90) not null,
+    endereco varchar(300),
+    telefone double,
+    email varchar (100),
+    idade int not null,
+    preferencial bool not null
+    );
+desc paciente;
+insert into paciente (cpf, nome, endereco, telefone, email, idade, preferencial) values
+('123456','ajhsjah', 'avncucucuai', '123312', '', '12', 'false'),
+('12323213','joao', '', '', '', '89','true');
+insert into paciente (cpf, nome, endereco, telefone, email, idade, preferencial) values
+('67834563', 'Pedro', 'Av. Pres. Kennedy, 345', '','', '96', '1');
+select * from paciente;
