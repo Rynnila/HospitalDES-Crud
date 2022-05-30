@@ -15,3 +15,20 @@ c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\
 c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\obj\Debug\Hospital Crud.csproj.Hospital Crud.exe.config
 c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\obj\Debug\Hospital Crud.exe
 c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\obj\Debug\Hospital Crud.pdb
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\Hospital Crud.exe.config
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\obj\Debug\Hospital Crud.exe
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\obj\Debug\Hospital Crud.pdb
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\Hospital Crud.exe
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\Hospital Crud.pdb
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\MySql.Data.dll
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\Google.Protobuf.dll
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\Zstandard.Net.dll
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\System.Buffers.dll
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\bin\Debug\MySql.Data.xml
+C:\Users\Tecnico\Desktop\HospitalDES-Crud\Hospital Crud\Hospital Crud\obj\Debug\Hospital Crud.csprojResolveAssemblyReference.cache

@@ -59,5 +59,39 @@ namespace Hospital_Crud
                 Console.ReadKey();
             }
         }
+        public void atualizar(Paciente p)
+        {
+            String sql = "UPDATE paciente values(null,@cpf,@nome,@endereco,@telefone,@email,@idade,@preferencial) where cpf=@cpf";
+            Console.WriteLine("Insira o CPF do paciente que deseja atualizar os dados: ");
+            p.cpf = long.Parse(Console.ReadLine());
+            Console.WriteLine("Insira os dados novos do paciente");
+            cmd = new MySqlCommand(sql, conexao);
+            cmd.Parameters.AddWithValue("@cpf", p.cpf);
+            cmd.Parameters.AddWithValue("@nome", p.nome);
+            cmd.Parameters.AddWithValue("@endereco", p.endereco);
+            cmd.Parameters.AddWithValue("@telefone", p.telefone);
+            cmd.Parameters.AddWithValue("@email", p.email);
+            cmd.Parameters.AddWithValue("@idade", p.idade);
+            cmd.Parameters.AddWithValue("@preferencial", p.preferencial);
+
+            cmd.ExecuteNonQuery();
+        }
+        public void deletar(Paciente p)
+        {
+            String sql = "Delete paciente where cpf=@cpf";
+            Console.WriteLine("Insira o CPF do paciente que deseja excluir da fila: ");
+            p.cpf = long.Parse(Console.ReadLine());
+            Console.WriteLine("Insira os dados novos do paciente");
+            cmd = new MySqlCommand(sql, conexao);
+            cmd.Parameters.AddWithValue("@cpf", p.cpf);
+            cmd.Parameters.AddWithValue("@nome", p.nome);
+            cmd.Parameters.AddWithValue("@endereco", p.endereco);
+            cmd.Parameters.AddWithValue("@telefone", p.telefone);
+            cmd.Parameters.AddWithValue("@email", p.email);
+            cmd.Parameters.AddWithValue("@idade", p.idade);
+            cmd.Parameters.AddWithValue("@preferencial", p.preferencial);
+
+            cmd.ExecuteNonQuery();
+        }
     }
 }
