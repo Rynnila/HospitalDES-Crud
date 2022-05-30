@@ -1,7 +1,8 @@
 create database hospital;
 use hospital;
 create table paciente(
-	cpf double primary key not null,
+    cod_paciente int primary key auto_increment,
+    cpf double primary key not null,
     nome varchar(90) not null,
     endereco varchar(300),
     telefone double,
