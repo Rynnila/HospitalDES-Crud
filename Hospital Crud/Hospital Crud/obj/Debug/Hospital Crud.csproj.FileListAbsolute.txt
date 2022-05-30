@@ -1,0 +1,17 @@
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\Hospital Crud.exe.config
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\Hospital Crud.exe
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\Hospital Crud.pdb
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\MySql.Data.dll
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\Google.Protobuf.dll
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\ZstdNet.dll
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\K4os.Compression.LZ4.Streams.dll
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\System.Buffers.dll
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\K4os.Compression.LZ4.dll
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\K4os.Hash.xxHash.dll
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\bin\Debug\MySql.Data.xml
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\obj\Debug\Hospital Crud.csprojResolveAssemblyReference.cache
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\obj\Debug\Hospital Crud.csproj.Hospital Crud.exe.config
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\obj\Debug\Hospital Crud.exe
+c:\users\ens medio e gestao\documents\visual studio 2015\Projects\Hospital Crud\Hospital Crud\obj\Debug\Hospital Crud.pdb
